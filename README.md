@@ -10,3 +10,5 @@ The goal of this repository is to improve SQL programming skills with a coding c
 - Test again until all tests pass
 
 The challenges are based on [Codewars](https://www.codewars.com/) exercises.
+
+1. [Trimming the Field](challenge01)
