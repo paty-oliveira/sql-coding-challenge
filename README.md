@@ -9,6 +9,6 @@ The goal of this repository is to improve SQL programming skills with a coding c
 - Refactoring
 - Test again until all tests pass
 
-The challenges are based on [Codewars](https://www.codewars.com/) exercises.
+The challenges are based on [Codewars](https://www.codewars.com/) exercises. The SQL engine is PostgreSQL 9.6 and the tests cases are based on Behavior Driven Development of Ruby.
 
 1. [Trimming the Field](challenge01)

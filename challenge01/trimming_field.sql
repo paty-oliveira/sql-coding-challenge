@@ -22,3 +22,9 @@ characteristic
 Order by id
 
  */
+
+SELECT id,
+  name,
+  SPLIT_PART(characteristics, ',', 1) as characteristic
+FROM monsters
+ORDER BY id;
