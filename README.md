@@ -9,6 +9,15 @@ The goal of this repository is to improve SQL programming skills with a coding c
 - Refactoring
 - Test again until all tests pass
 
-The challenges are based on [Codewars](https://www.codewars.com/) exercises. The SQL engine is PostgreSQL 9.6 and the tests cases are based on Behavior Driven Development of Ruby.
+The challenges are based on [Codewars](https://www.codewars.com/) exercises. The SQL engine is PostgreSQL 9.6 and the tests cases are based on Behavior Driven Development of [Ruby/RSpec SQL](https://docs.qualified.io/reference/languages/sql/rspec/#why-rubyrspec).
 
 1. [Trimming the Field](challenge01)
+2. [Simple Having](challenge02)
+
+## Useful notes about RSpec SQL
+
+A small set of utility methods and classes have been provided to make testing and displaying SQL queries easy with Ruby. These utility methods are available from any file in the runner.
+
+- **$sql** is a global variable which contains the user's SQL solution
+- **run_sql** is a method that will run the user's query, execute any non-SELECT statements and print and return any result sets from SQL SELECT statements.
+- **compare_with** is a method which compares the candidate's submitted query to the reference query and auto-generates a test suite based on the expected query results.
