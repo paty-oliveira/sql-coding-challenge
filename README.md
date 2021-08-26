@@ -13,6 +13,7 @@ The challenges are based on [Codewars](https://www.codewars.com/) exercises. The
 
 1. [Trimming the Field](challenge01)
 2. [Simple Having](challenge02)
+3. [Count Weekdays](challenge03)
 
 ## Useful notes about RSpec SQL
 
