@@ -17,6 +17,7 @@ The challenges are based on [Codewars](https://www.codewars.com/) exercises. The
 4. [Members Approved for Voucher](challenge04)
 5. [Hierarchical Structure](challenge05)
 6. [Calculating Running Total](challenge06)
+7. [Present XML data to SQL way](challenge07)
 
 ## Useful notes about RSpec SQL
 
