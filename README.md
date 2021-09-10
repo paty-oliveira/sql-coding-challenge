@@ -16,6 +16,7 @@ The challenges are based on [Codewars](https://www.codewars.com/) exercises. The
 3. [Count Weekdays](challenge03)
 4. [Members Approved for Voucher](challenge04)
 5. [Hierarchical Structure](challenge05)
+6. [Calculating Running Total](challenge06)
 
 ## Useful notes about RSpec SQL
 
