@@ -18,6 +18,7 @@ The challenges are based on [Codewars](https://www.codewars.com/) exercises. The
 5. [Hierarchical Structure](challenge05)
 6. [Calculating Running Total](challenge06)
 7. [Present XML data to SQL way](challenge07)
+8. [Top 10 customer by total payments amount](challenge08)
 
 ## Useful notes about RSpec SQL
 
