@@ -21,6 +21,7 @@ The challenges are based on [Codewars](https://www.codewars.com/) exercises. The
 8. [Top 10 customer by total payments amount](challenge08)
 9. [Analyzing the sales by product and date](challenge09)
 10. [SQL with Harry Potter: Sorting Hat Comparators](challenge10)
+11. [Top Departments](challenge11)
 
 ## Useful notes about RSpec SQL
 
