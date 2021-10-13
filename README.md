@@ -23,6 +23,7 @@ The challenges are based on [Codewars](https://www.codewars.com/) exercises. The
 10. [SQL with Harry Potter: Sorting Hat Comparators](challenge10)
 11. [Top Departments](challenge11)
 12. [Conditional Count](challenge12)
+13. [Monsters using CASE](challenge13)
 
 ## Useful notes about RSpec SQL
 
