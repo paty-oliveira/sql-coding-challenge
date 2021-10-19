@@ -25,6 +25,7 @@ The challenges are based on [Codewars](https://www.codewars.com/) exercises. The
 12. [Conditional Count](challenge12)
 13. [Monsters using CASE](challenge13)
 14. [Elven Wildcards](challenge14)
+15. [Group by day](challenge15)
 
 ## Useful notes about RSpec SQL
 
