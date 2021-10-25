@@ -27,6 +27,7 @@ The challenges are based on [Codewars](https://www.codewars.com/) exercises. The
 14. [Elven Wildcards](challenge14)
 15. [Group by day](challenge15)
 16. [Age Calculator](challenge16)
+17. [Ranking Sales](challenge17)
 
 ## Useful notes about RSpec SQL
 
