@@ -31,6 +31,7 @@ The challenges are based on [Codewars](https://www.codewars.com/) exercises. The
 18. [Maths with String Manipulation](challenge18)
 19. [Regex Extraction](challenge19)
 20. [Filtering Sales](challenge20)
+21. [Using Window Functions to Get Top N per Group](challenge21)
 
 ## Useful notes about RSpec SQL
 
