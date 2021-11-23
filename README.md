@@ -32,6 +32,7 @@ The challenges are based on [Codewars](https://www.codewars.com/) exercises. The
 19. [Regex Extraction](challenge19)
 20. [Filtering Sales](challenge20)
 21. [Using Window Functions to Get Top N per Group](challenge21)
+22. [Find all Movies that Two Actors Cast in Together](challenge22)
 
 ## Useful notes about RSpec SQL
 
