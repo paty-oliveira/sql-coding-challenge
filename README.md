@@ -33,7 +33,7 @@ The challenges are based on [Codewars](https://www.codewars.com/) exercises. The
 20. [Filtering Sales](challenge20)
 21. [Using Window Functions to Get Top N per Group](challenge21)
 22. [Find all Movies that Two Actors Cast in Together](challenge22)
-
+23. [Simple table totaling](challenge23)
 ## Useful notes about RSpec SQL
 
 A small set of utility methods and classes have been provided to make testing and displaying SQL queries easy with Ruby. These utility methods are available from any file in the runner.
