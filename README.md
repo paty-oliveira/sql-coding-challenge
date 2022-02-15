@@ -37,6 +37,7 @@ The challenges are based on [Codewars](https://www.codewars.com/) exercises. The
 24. [Regex AlphaNumeric Split](challenge24)
 25. [Pivoting data](challenge25)
 26. [Returning Strings](challenge26)
+27. [Handling with Nulls](challenge27)
 ## Useful notes about RSpec SQL
 
 A small set of utility methods and classes have been provided to make testing and displaying SQL queries easy with Ruby. These utility methods are available from any file in the runner.
