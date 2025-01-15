@@ -41,6 +41,8 @@ The challenges are based on [Codewars](https://www.codewars.com/) exercises. The
 28. [Number of countries visited](challenge28)
 29. [Categorize and Count Job Applications Based on Status](challenge29)
 30. [Counting Interview Failures without using COUNT()](challenge30)
+31. [Find the two actor who cast together the most](challenge31)
+
 ## Useful notes about RSpec SQL
 
 A small set of utility methods and classes have been provided to make testing and displaying SQL queries easy with Ruby. These utility methods are available from any file in the runner.
