@@ -43,6 +43,7 @@ The challenges are based on [Codewars](https://www.codewars.com/) exercises. The
 30. [Counting Interview Failures without using COUNT()](challenge30)
 31. [Find the two actor who cast together the most](challenge31)
 32. [Calculating Batting Average](challenge32)
+33. [Generation Categorization](challenge33)
 
 ## Useful notes about RSpec SQL
 
