@@ -44,6 +44,7 @@ The challenges are based on [Codewars](https://www.codewars.com/) exercises. The
 31. [Find the two actor who cast together the most](challenge31)
 32. [Calculating Batting Average](challenge32)
 33. [Generation Categorization](challenge33)
+34. [Simple IN](challenge34)
 
 ## Useful notes about RSpec SQL
 
