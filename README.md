@@ -47,6 +47,7 @@ The challenges are based on [Codewars](https://www.codewars.com/) exercises. The
 34. [Simple IN](challenge34)
 35. [Using Lateral Join to get top N per group](challenge35)
 36. [Calculating Month-Over-Month Percentage Growth Rate](challenge36)
+37. [Exploring the Pareto Principle](challenge37)
 
 ## Useful notes about RSpec SQL
 
