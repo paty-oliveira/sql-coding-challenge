@@ -52,9 +52,9 @@ WITH posts_by_category AS (
         posts.title,
         posts.views,
         posts.id AS post_id,
-        ROW_NUMBER() OVER(PARTITION BY categ.category ORDER BY categ.category, posts.views DESC, posts.id ASC) AS row_nr
+        ROW_NUMBER() OVER(PARTITION BY categ.category ORDER BY posts.views DESC, posts.id ASC) AS row_nr
     FROM categories AS categ
-    JOIN posts
+    LEFT JOIN posts
         ON categ.id = posts.category_id
 )
 SELECT category_id,
@@ -63,4 +63,5 @@ SELECT category_id,
     views,
     post_id
 FROM posts_by_category
-WHERE row_nr <=2;
+WHERE row_nr <=2
+ORDER BY category asc, views desc, post_id asc
