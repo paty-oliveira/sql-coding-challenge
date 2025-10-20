@@ -49,6 +49,7 @@ The challenges are based on [Codewars](https://www.codewars.com/) exercises. The
 36. [Calculating Month-Over-Month Percentage Growth Rate](challenge36)
 37. [Exploring the Pareto Principle](challenge37)
 38. [Top five movie categories rented at each store](challenge38)
+39. [Simple Pivoting Data](challenge39)
 
 ## Useful notes about RSpec SQL
 
