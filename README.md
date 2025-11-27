@@ -50,6 +50,7 @@ The challenges are based on [Codewars](https://www.codewars.com/) exercises. The
 37. [Exploring the Pareto Principle](challenge37)
 38. [Top five movie categories rented at each store](challenge38)
 39. [Simple Pivoting Data](challenge39)
+40. [Calculate Available Time](challenge40)
 
 ## Useful notes about RSpec SQL
 
